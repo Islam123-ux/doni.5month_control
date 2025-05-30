@@ -37,4 +37,4 @@ docker-compose exec web python manage.py createsuperuser
  3. Комментарии к постам
  4. Пагинация (по 3 поста или комментария на страницу)
  5. Доступ к API только для авторизованных пользователей
- 6. Документация по адресу /swagger/
+ 6. Документация по адресу /swagger/# doni.5month_control
